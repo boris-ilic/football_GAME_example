@@ -1,16 +1,34 @@
 # football_game
 
-A new Flutter project.
+A fun and engaging Flutter game built with Flutter Flame. The objective is to collect balls for points while avoiding yellow and red cards that can end the game.
+
+## Gameplay
+
+- Collect Balls:
+    Small balls: Move faster and give more points.
+    Big balls: Move slower and give fewer points.
+- Avoid Cards:
+    Yellow card: Receiving 2 yellow cards results in a game over.
+    Red card: Instantly ends the game.
+
+## Features
+
+Simple and intuitive controls.
+Dynamic difficulty based on ball speed.
+Interactive scoring system with visual feedback.
+Designed for an exciting and challenging experience!
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the project locally:
 
-A few resources to get you started if this is your first Flutter project:
+git clone https://github.com/boris-ilic/football_GAME_example.git
+cd football_GAME_example
+flutter pub get
+flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Built With
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter - Framework for building cross-platform apps.
+Flutter Flame - Game engine for creating 2D games in Flutter.
+
