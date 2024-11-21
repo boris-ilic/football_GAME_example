@@ -23,12 +23,16 @@ Designed for an exciting and challenging experience!
 To run the project locally:
 
 git clone https://github.com/boris-ilic/football_GAME_example.git
+
 cd football_GAME_example
+
 flutter pub get
+
 flutter run
 
 ## Built With
 
 Flutter - Framework for building cross-platform apps.
+
 Flutter Flame - Game engine for creating 2D games in Flutter.
 
