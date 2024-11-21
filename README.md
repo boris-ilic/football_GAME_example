@@ -11,6 +11,8 @@ A fun and engaging Flutter game built with Flutter Flame. The objective is to co
     Yellow card: Receiving 2 yellow cards results in a game over.
     Red card: Instantly ends the game.
 
+![Gameplay Demo](assets/WhatsAppVideo2024-08-15at03.17.42-ezgif.com-video-to-gif-converter.gif)
+
 ## Features
 
 Simple and intuitive controls.
